@@ -1,5 +1,5 @@
 # Game-of-MIDI
-A musical implementation of John Conway's *Game of Life*.<br>
+A musical implementation of John Conway's *Game of Life* in MATLAB.<br>
 Game of MIDI generates and plays MIDI notes based on the game of life simulation.<br>
 [What is the game of life?](https://www.youtube.com/watch?v=R9Plq-D1gEk)
 
