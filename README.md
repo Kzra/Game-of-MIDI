@@ -28,5 +28,5 @@ If a cell is in a dead state (i.e. black) it will become alive if there are 3 al
 Version 1.0
 
 **Acknowledgements:**
-Thanks for the writemidi and matrix2midi MATLAB functions written by [Ken Schutte](https://kenschutte.com/midi#Writing%20MIDI) which I used in the write_midi function. 
+Thanks for the writemidi and matrix2midi MATLAB functions written by [Ken Schutte](https://kenschutte.com/midi#Writing%20MIDI).
 
