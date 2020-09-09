@@ -4,9 +4,10 @@ Game of MIDI generates and plays MIDI notes based on the game of life simulation
 [What is the game of life?](https://www.youtube.com/watch?v=R9Plq-D1gEk)
 
 **Installation:**
+<br>
 If you have MATLAB, you can install Game-of-MIDI as an app using 
 `Game of MIDI.mlappinstall` <br>
-you can install the program on windows using 
+Or you can install the program on windows (you will be prompted to download the MATLAB runtime if you do not already have it) 
 `Game_of_MIDI_installer.exe`
 
 **User guide:**
@@ -20,7 +21,7 @@ If a cell is in a dead state it will become alive if there are 3 alive cells ort
 <br>
 
 
-**[Happy MIDI'ing!]**
+**Happy MIDI'ing!**
 
 **Acknowledgements:**
 Thanks for the writemidi and matrix2midi MATLAB functions written by [Ken Schutte](https://kenschutte.com/midi#Writing%20MIDI).
