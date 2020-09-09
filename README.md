@@ -6,7 +6,7 @@ Game of MIDI generates and plays MIDI notes based on the game of life simulation
 
 **User guide:**
 
-<img src="https://github.com/Kzra/Game-of-MIDI/blob/master/user_guide.png" alt="User guide" width="650"/>
+<img src="https://github.com/Kzra/Game-of-MIDI/blob/master/user_guide.png" alt="User guide" width="850"/>
 
 **Rules:** 
 <br>
