@@ -5,10 +5,10 @@ Game of MIDI generates and plays MIDI notes based on the game of life simulation
 
 **Installation:**
 <br>
-If you have MATLAB, you can install Game-of-MIDI as an app using 
-`Game of MIDI.mlappinstall` <br>
-Or you can install the program on windows (you will be prompted to download the MATLAB runtime if you do not already have it) 
-`Game_of_MIDI_installer.exe`
+ 
+Run `Game of MIDI.mlappinstall` to install Game-of-MIDI as a MATLAB app. <br>
+Run `Game_of_MIDI_installer.exe` to install Game-of-MIDI as a standalone application on windows (you will be prompted to download the MATLAB runtime if you do not already have it). 
+
 
 **User guide:**
 
