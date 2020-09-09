@@ -4,10 +4,7 @@ A musical implementation of John Conway's 'Game of Life'. Game of MIDI generates
 
 
 **Usage:**
-
-
-
-
+<br>
 Click on the axes (127 * 127) to 'seed' the simulation. Each pixel represents a cell in the game of life.<br>
 Start - Begin simulation.<br>
 Stop/Reset  - Stop stimulation (one press), reset the grid (two press).<br>
@@ -22,10 +19,12 @@ Channel - MIDI channel specified in MIDI file.<br>
 Tempo - Tempo in BPM specified in MIDI file. Time signature is 4/4 and ticks per 1/4 note is 300.<br>
 
 **Rules:** 
-If a cell is in a live state (i.e white) it will remain alive if there are 2 or 3 alive cells orthogonal to it.<br>
-If a cell is in a dead state (i.e. black) it will become alive if there are 3 alive cells orthogonal to it. 
+<br>
+If a cell is in a live state it will remain alive if there are 2 or 3 alive cells orthogonal to it.<br>
+If a cell is in a dead state it will become alive if there are 3 alive cells orthogonal to it. 
+<br>
 
-Version 1.0
+*Version 1.0*
 
 **Acknowledgements:**
 Thanks for the writemidi and matrix2midi MATLAB functions written by [Ken Schutte](https://kenschutte.com/midi#Writing%20MIDI).
