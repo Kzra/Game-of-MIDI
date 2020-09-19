@@ -6,6 +6,7 @@ Game of MIDI generates and plays MIDI notes based on the game of life simulation
 
 [Game of MIDI example 1](https://www.youtube.com/watch?v=GayJycHz04s)
 <br>
+[Game of MIDI example 2](https://www.youtube.com/watch?v=ss9j2fiBrcU&ab_channel=Kzra)
 
 **Installation:**
 <br>
