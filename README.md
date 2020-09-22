@@ -30,7 +30,7 @@ If a cell is in a dead state it will become alive if there are 3 alive cells ort
 
 **Acknowledgements:**
 <br>
-The writemidi and matrix2midi MATLAB functions used to write MIDI files were written by [Ken Schutte](https://kenschutte.com/midi#Writing%20MIDI).
+The writemidi and matrix2midi MATLAB functions used to write MIDI files were written by [Ken Schutte](https://kenschutte.com/midi#Writing%20MIDI). <br>
 Thanks to Mara Uboldi for the logo design. 
 
 *Version 1.0* Last updated 09/09/2020
